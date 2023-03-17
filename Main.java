@@ -8,6 +8,7 @@ public class Main {
 
         System.out.println("--- Saiba o mês ---");
         do {
+            System.out.println("Digite 0 para encerrar...");
             System.out.print("Digite um numero entre 1 e 12: ");
             mes = scanner.nextInt();
 
